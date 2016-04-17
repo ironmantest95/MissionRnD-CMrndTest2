@@ -30,6 +30,7 @@ The type if node is oddevennode ,and not Node .
 */
 #include <stdlib.h>
 #include <stdio.h>
+#include <string.h>
 
 struct oddevennode{
 	int data;
